@@ -1,0 +1,34 @@
+OUTPUT LOGIN SEDERHANA 
+# Mengambil input
+#Login sederhana
+
+
+nama = input("Siapa nama kamu: ")
+nim = input("Berapa nim kamu: ")
+password = input("Berapa password kamu: ")
+
+# Menampilkan output
+print ("Hello",nama,"Nim kamu",nim,"Pass kamu adalah",password,"6 angka")
+
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+
+
